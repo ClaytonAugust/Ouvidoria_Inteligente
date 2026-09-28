@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+sentence-transformers
+langchain-text-splitters
+streamlit
+plotly
+matplotlib
+seaborn
+jupyter
+nbformat

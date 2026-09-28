@@ -1,0 +1,202 @@
+[
+  {
+    "id": "M001",
+    "categoria_oficial": "infraestrutura",
+    "texto": "calçada quebrada na rua central, dificultando a passagem de pedestres."
+  },
+  {
+    "id": "M002",
+    "categoria_oficial": "saúde",
+    "texto": "demora para conseguir consulta com clínico geral no posto do bairro."
+  },
+  {
+    "id": "M003",
+    "categoria_oficial": "infraestrutura",
+    "texto": "buraco enorme na Av. Brasil"
+  },
+  {
+    "id": "M004",
+    "categoria_oficial": "segurança",
+    "texto": "falta de iluminação deixa a rua escura durante a noite."
+  },
+  {
+    "id": "M005",
+    "categoria_oficial": "educação",
+    "texto": "escola municipal está com salas sem ventiladores funcionando."
+  },
+  {
+    "id": "M006",
+    "categoria_oficial": "meio ambiente",
+    "texto": "lixo acumulado próximo ao córrego está atraindo insetos."
+  },
+  {
+    "id": "M007",
+    "categoria_oficial": "infraestrutura",
+    "texto": "semáforo do cruzamento principal apresenta defeito."
+  },
+  {
+    "id": "M008",
+    "categoria_oficial": "saúde",
+    "texto": "posto de saúde sem médico"
+  },
+  {
+    "id": "M009",
+    "categoria_oficial": "segurança",
+    "texto": "moradores relatam aumento de furtos perto da praça."
+  },
+  {
+    "id": "M010",
+    "categoria_oficial": "educação",
+    "texto": "falta material escolar para as turmas do ensino fundamental."
+  },
+  {
+    "id": "M011",
+    "categoria_oficial": "meio ambiente",
+    "texto": "árvores precisam de poda na avenida do mercado."
+  },
+  {
+    "id": "M012",
+    "categoria_oficial": "infraestrutura",
+    "texto": "tampa de bueiro solta oferece risco para motociclistas."
+  },
+  {
+    "id": "M013",
+    "categoria_oficial": "saúde",
+    "texto": "medicamentos básicos estão em falta na unidade de saúde."
+  },
+  {
+    "id": "M014",
+    "categoria_oficial": "segurança",
+    "texto": "pedido de reforço de patrulhamento no bairro durante a madrugada."
+  },
+  {
+    "id": "M015",
+    "categoria_oficial": "educação",
+    "texto": "a biblioteca da escola precisa de computadores para os alunos."
+  },
+  {
+    "id": "M016",
+    "categoria_oficial": "meio ambiente",
+    "texto": "queimada em terreno baldio produz muita fumaça."
+  },
+  {
+    "id": "M017",
+    "categoria_oficial": "infraestrutura",
+    "texto": "asfalto todo esburacado da avenida principal"
+  },
+  {
+    "id": "M018",
+    "categoria_oficial": "saúde",
+    "texto": "fila muito longa para atendimento odontológico no posto."
+  },
+  {
+    "id": "M019",
+    "categoria_oficial": "segurança",
+    "texto": "poste de iluminação pública apagado aumenta a sensação de insegurança."
+  },
+  {
+    "id": "M020",
+    "categoria_oficial": "educação",
+    "texto": "goteiras na sala de aula prejudicam as atividades em dias de chuva."
+  },
+  {
+    "id": "M021",
+    "categoria_oficial": "meio ambiente",
+    "texto": "descarte irregular de entulho em área verde do município."
+  },
+  {
+    "id": "M022",
+    "categoria_oficial": "saúde",
+    "texto": "falta atendimento no PSF"
+  },
+  {
+    "id": "M023",
+    "categoria_oficial": "infraestrutura",
+    "texto": "chuva forte abriu uma cratera na avenida principal e os veículos precisam desviar."
+  },
+  {
+    "id": "M024",
+    "categoria_oficial": "segurança",
+    "texto": "iluminação pública insuficiente deixa a via perigosa à noite."
+  },
+  {
+    "id": "M025",
+    "categoria_oficial": "educação",
+    "texto": "a escola está sem professores substitutos para algumas disciplinas."
+  },
+  {
+    "id": "M026",
+    "categoria_oficial": "meio ambiente",
+    "texto": "acúmulo de resíduos em terreno próximo às casas precisa de limpeza."
+  },
+  {
+    "id": "M027",
+    "categoria_oficial": "infraestrutura",
+    "texto": "bueiro sem tampa na calçada pode causar acidentes."
+  },
+  {
+    "id": "M028",
+    "categoria_oficial": "saúde",
+    "texto": "unidade básica está sem remédios para pacientes que fazem tratamento contínuo."
+  },
+  {
+    "id": "M029",
+    "categoria_oficial": "segurança",
+    "texto": "moradores pedem presença policial mais frequente durante a noite."
+  },
+  {
+    "id": "M030",
+    "categoria_oficial": "educação",
+    "texto": "ventiladores quebrados deixam as salas de aula muito quentes."
+  },
+  {
+    "id": "M031",
+    "categoria_oficial": "saúde",
+    "texto": "lâmpada queimada na praça"
+  },
+  {
+    "id": "M032",
+    "categoria_oficial": "meio ambiente",
+    "texto": "é necessária a poda de árvores que estão encostando nos fios."
+  },
+  {
+    "id": "M033",
+    "categoria_oficial": "infraestrutura",
+    "texto": "o semáforo do centro não está funcionando corretamente e causa congestionamento."
+  },
+  {
+    "id": "M034",
+    "categoria_oficial": "saúde",
+    "texto": "o atendimento médico do posto está demorando várias horas."
+  },
+  {
+    "id": "M035",
+    "categoria_oficial": "segurança",
+    "texto": "uma rua do bairro permanece completamente escura depois das 19 horas."
+  },
+  {
+    "id": "M036",
+    "categoria_oficial": "educação",
+    "texto": "faltam livros didáticos para parte dos estudantes da escola municipal. A situação tem causado transtornos frequentes à comunidade e os moradores solicitam providências, vistoria técnica, manutenção e acompanhamento do caso até que o problema seja resolvido de forma adequada. A situação tem causado transtornos frequentes à comunidade e os moradores solicitam providências, vistoria técnica, manutenção e acompanhamento do caso até que o problema seja resolvido de forma adequada. A situação tem causado transtornos frequentes à comunidade e os moradores solicitam providências, vistoria técnica, manutenção e acompanhamento do caso até que o problema seja resolvido de forma adequada."
+  },
+  {
+    "id": "M037",
+    "categoria_oficial": "meio ambiente",
+    "texto": "há descarte de lixo e entulho perto do rio, causando mau cheiro e atraindo animais. A situação tem causado transtornos frequentes à comunidade e os moradores solicitam providências, vistoria técnica, manutenção e acompanhamento do caso até que o problema seja resolvido de forma adequada. A situação tem causado transtornos frequentes à comunidade e os moradores solicitam providências, vistoria técnica, manutenção e acompanhamento do caso até que o problema seja resolvido de forma adequada. A situação tem causado transtornos frequentes à comunidade e os moradores solicitam providências, vistoria técnica, manutenção e acompanhamento do caso até que o problema seja resolvido de forma adequada."
+  },
+  {
+    "id": "M038",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A avenida do bairro apresenta diversos problemas de pavimentação, com trechos desnivelados, buracos de tamanhos diferentes e pontos onde o asfalto já se desprendeu. Em dias de chuva, a água fica acumulada nessas áreas e dificulta a passagem de carros, motocicletas e ônibus. Moradores relatam que os veículos precisam reduzir muito a velocidade e fazer desvios, aumentando o risco de acidentes e causando transtornos para quem utiliza a via diariamente. Solicita-se avaliação técnica e reparo da pavimentação."
+  },
+  {
+    "id": "M039",
+    "categoria_oficial": "saúde",
+    "texto": "Os moradores desta região têm enfrentado dificuldades para conseguir atendimento na unidade básica de saúde. A equipe disponível não parece suficiente para a demanda atual, fazendo com que pacientes aguardem por muito tempo antes de serem atendidos. Pessoas idosas e cidadãos que precisam renovar receitas também relatam dificuldades para conseguir orientação. A comunidade solicita que a situação seja verificada e que sejam adotadas medidas para melhorar o fluxo de atendimento e a disponibilidade de profissionais."
+  },
+  {
+    "id": "M040",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O terreno localizado próximo às residências vem recebendo descarte irregular de lixo, restos de construção e outros materiais. Com o passar dos dias, o volume de resíduos aumentou e passou a ocupar uma área considerável. Durante períodos de chuva, parte do material é levada para a rua e para a área próxima ao córrego. Moradores também relatam mau cheiro e presença de insetos e animais. Solicita-se fiscalização, limpeza do local e orientação aos responsáveis para evitar que novos descartes aconteçam."
+  }
+]
